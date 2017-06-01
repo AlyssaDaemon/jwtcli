@@ -1,7 +1,7 @@
 {
   "name": "jwtcli",
-  "version": "1.0.0",
-  "description": "Command Line wrapper for jsonwebtoken",
+  "version": "1.0.1",
+  "description": "Command Line jwt helper",
   "main": "jwt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
