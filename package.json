@@ -1,0 +1,17 @@
+{
+  "name": "jwtcli",
+  "version": "1.0.0",
+  "description": "Command Line wrapper for jsonwebtoken",
+  "main": "jwt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jwt": "jwt.js"
+  },
+  "author": "Alyssa Herzog <AlyssaDaemon@gmail.com> (alyssadaemon.io)",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^7.4.1"
+  }
+}
